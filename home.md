@@ -4,8 +4,8 @@ layout: home
 preTitle: Hosted Portal
 title: Acta Ichthyologica et Piscatoria
 description: Browse data on GBIF associated with publications in Acta Ichthyologica et Piscatoria
-background: /assets/images/placeholders/aiep-hp-cover.jpg
-imageLicense: 
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Rusdianto, Wibowo K, Limmon GV (2022) First specimen-based Indonesian record of a rare scorpionfish, _Scorpaenopsis obtusa_ (Actinopterygii: Perciformes: Scorpaenidae), from Alor Island. Acta Ichthyologica et Piscatoria 52(4): 245-249. [https://doi.org/10.3897/aiep.52.91145](https://doi.org/10.3897/aiep.52.91145)"
 height: 75vh
 cta:
   - text: Datasets

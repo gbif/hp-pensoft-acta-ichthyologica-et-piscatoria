@@ -2,8 +2,9 @@
 lang-ref: about
 title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/aiep-hp-about.jpg
+background: /assets/images/placeholders/hp-about.jpg
 imageLicense: |
+  Borg JA, Evans J, Knittweis L, Schembri PJ (2022) New and interesting records of marine fishes (Actinopterygii) from the Maltese Islands (central Mediterranean). Acta Ichthyologica et Piscatoria 52(3): 215-221. https://doi.org/10.3897/aiep.52.89340
   
 height: 70vh
 ---
